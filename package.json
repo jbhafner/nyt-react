@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/jbhafner/NYT-React-Search/issues"
   },
+  "engines": {
+    "node": "8.9.3"
+  },
   "homepage": "https://github.com/jbhafner/NYT-React-Search#readme"
 }
